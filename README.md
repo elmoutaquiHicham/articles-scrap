@@ -19,6 +19,15 @@ Ce projet permet de collecter et d'extraire des articles de presse provenant de 
 - Python 3.x
 - Pip (pour l'installation des packages)
 
+{
+    "site1": {
+        "link": "https://www.example.com"
+    },
+    "site2": {
+        "link": "https://www.another-example.com"
+    }
+}
+
 ### Installation des Dépendances
 
 Pour installer les bibliothèques nécessaires, utilisez la commande suivante :
